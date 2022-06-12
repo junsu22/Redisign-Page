@@ -1,2 +1,2 @@
-# Redisign-GamePage
-좋아하는 게임 페이지를 HTML ,CSS 를 이용하여 다시 디자인
+# Redisign-Page
+좋아하는 페이지를 HTML ,CSS 를 활용하여 마음대로 커스터마이징 해보기
